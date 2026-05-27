@@ -1,4 +1,4 @@
-## Hi there 👋 ### 🤖 AI Involvement
+## Hi there 👋 🤖 AI Involvement
 Most of these apps were programmed entirely by AI, but designed and tested by me. As someone with zero coding knowledge, I made the key decisions on how the apps work and handled all the testing. I used **Claude Chat** as a consultant and architect to plan the structure, and **Claude Code** to write the actual code.
 
 
